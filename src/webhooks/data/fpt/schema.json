@@ -15674,7 +15674,8 @@
                 "string",
                 "single_select",
                 "multi_select",
-                "true_false"
+                "true_false",
+                "url"
               ]
             },
             {
@@ -15864,7 +15865,8 @@
                 "string",
                 "single_select",
                 "multi_select",
-                "true_false"
+                "true_false",
+                "url"
               ]
             },
             {
@@ -15987,7 +15989,8 @@
                 "string",
                 "single_select",
                 "multi_select",
-                "true_false"
+                "true_false",
+                "url"
               ]
             },
             {
